@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 My current side-project is [JTDev.fr](https://www.jtdev.fr/)
+- 🔭 My current side-project is [Diggers Factory](https://www.diggersfactory.com/fr)
 
 - 🌱 I’m currently learning **PHP**
 
